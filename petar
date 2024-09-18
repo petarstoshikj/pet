@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>Bouldering</title>
+</head>
+<body>
+    <main>
+        <header>
+            <img src="/uploads/2020/12/header_0_1609082687.svg" />
+            <img src="/uploads/2020/12/image1_0_1609082687.png" />
+            <img src="/uploads/2020/12/image2_0_1609082687.png" />
+            <img src="/uploads/2020/12/image3_0_1609082687.png"   
+  
+ />
+        </header>
+
+        <h2>Schedule</h2>
+        <h2>About classes</h2>
+        <h2>Club addresses</h2>
+        <h1>Bouldering</h1>
+        <img class="image" src="path/to/image.jpg" alt="Bouldering image">
+        <p class="tekst">Never been to a climbing gym? - Hurry to have your first go at rock climbing! At our gyms, we have walls of different difficulty levels. Climbing is safe and we have harnesses for beginners and our instructors are always around. There are special areas for children with exciting activities for them. We offer memberships, discounts, and a special system for individual lessons. Before visiting, please read the safety instructions.</p>   
+
+        <h2>Email</h2>
+        <h2>Phone</h2>
+    </main>
+</body>
+</html>
